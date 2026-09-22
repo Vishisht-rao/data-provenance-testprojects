@@ -1,0 +1,5 @@
+[
+    "Classify the overall sentiment of this movie review as exactly positive or negative. Consider the review as a whole, including both praise and criticism, and choose the label that best reflects the reviewer’s overall attitude toward the movie. Return only the label.",
+    "Classify this movie review as exactly positive or negative. Pay particular attention to criticism, disappointment, flaws, and negative judgments. If the review contains substantial negative sentiment even alongside praise, prefer negative. Return only the label.",
+    "Classify this movie review as exactly positive or negative. Pay particular attention to praise, enjoyment, strengths, and positive judgments. If the review contains substantial positive sentiment even alongside criticism, prefer positive. Return only the label."
+]
